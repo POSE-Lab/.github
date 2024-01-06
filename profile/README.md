@@ -6,6 +6,8 @@ To get started with GitHub from scratch you can refer to: https://github.com/pan
 
 💻 For safety reasons, once in a while make a backup of your project in your local hard-drive (out of a git repo). 💻
 
+📖 Resources
+- https://docs.google.com/document/d/18CN9mzJiC7SZNtIqpd0VieMPzRgqNLpIeBNraONkHxs/edit
 <!--
 
 **Here are some ideas to get you started:**
