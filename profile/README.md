@@ -1,4 +1,4 @@
-## Welcome to the POSE-LAB repository!
+## Welcome to the POSE-Lab repository!
 
 To get started with GitHub from scratch you can refer to: https://github.com/pansap99/gitGuide
 
