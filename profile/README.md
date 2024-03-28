@@ -8,6 +8,9 @@ To get started with GitHub from scratch you can refer to: https://github.com/pan
 
 📖 Resources
 - https://docs.google.com/document/d/18CN9mzJiC7SZNtIqpd0VieMPzRgqNLpIeBNraONkHxs/edit
+
+Hardware Info
+- https://docs.google.com/document/d/1L7idPkg3r3QgzpIySvgXBvAsfou20hGnn28A-qeAFu8/edit?usp=sharing
 <!--
 
 **Here are some ideas to get you started:**
