@@ -11,6 +11,17 @@ To get started with GitHub from scratch you can refer to: https://github.com/pan
 
 Hardware Info
 - https://docs.google.com/document/d/1L7idPkg3r3QgzpIySvgXBvAsfou20hGnn28A-qeAFu8/edit?usp=sharing
+
+## WSL installation (W10,11)
+
+1. Navigate to Control panel -> Programs -> Programs and Features -> Turn Windows features on or off
+2. Check "Virtual Machine Platform" and "Windows Subsystem for Linux"
+3. Open a terminal
+4. Run ```wsl.exe --install -d Ubuntu-22.04```
+5. Run ```wsl --set-default-version 2```
+6. Set up username and password
+7. When you want to enter wsl write ```wsl``` or ```bash```. If you want to exit write ```exit```.
+8. If you want to open the file explorer a directory inside the wsl write ```explorer.exe "/path/to/folder"```
 <!--
 
 **Here are some ideas to get you started:**
