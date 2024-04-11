@@ -23,6 +23,15 @@ Hardware Info
 7. When you want to enter wsl write ```wsl``` or ```bash```. If you want to exit write ```exit```.
 8. If you get an error like "wsl 2 requires an update to its kernel component" then run ```wsl.exe --update```
 9. If you want to open the file explorer a directory inside the wsl write ```explorer.exe "/path/to/folder"```
+
+## Conda installation
+### Windows
+
+### Linux
+
+### Mac
+
+
 <!--
 
 **Here are some ideas to get you started:**
