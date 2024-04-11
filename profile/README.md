@@ -26,8 +26,17 @@ Hardware Info
 
 ## Conda installation
 ### Windows
+1. Download conda installer from [here](https://www.anaconda.com/download/)
+2. Run the ```.exe``` file.
+3. Follow the prompts. IMPORTANT: When prompted to **add conda to PATH** make sure to enable it.
 
 ### Linux
+1. Install conda installer for Linux from here [here](https://www.anaconda.com/download/)
+2. Open the terminal and run
+```
+bash <conda-installer-name>-latest-Linux-x86_64.sh
+```
+3. Follow the prompts and accept the defaults.
 
 ### Mac
 
