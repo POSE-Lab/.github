@@ -6,11 +6,29 @@ To get started with GitHub from scratch you can refer to: https://github.com/pan
 
 💻 For safety reasons, once in a while make a backup of your project in your local hard-drive (out of a git repo). 💻
 
-📖 Resources
+📖 Deep Learning Resources
 - https://docs.google.com/document/d/18CN9mzJiC7SZNtIqpd0VieMPzRgqNLpIeBNraONkHxs/edit
 
 Hardware Info
 - https://docs.google.com/document/d/1L7idPkg3r3QgzpIySvgXBvAsfou20hGnn28A-qeAFu8/edit?usp=sharing
+
+## 📚 Suggested Resources
+
+##### **Linear Algebra**
+- [UPenn Lecture Notes](https://www.cis.upenn.edu/~cis5150/linalg-I-f.pdf)
+- [Gilbert Strang - Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html)
+
+##### **Probabilities**
+- [Bertsekas & Tsitsiklis - Introduction to Probability](https://www-sop.inria.fr/members/Giovanni.Neglia/probas/bertsekas_tsitsiklis_probability.pdf)
+- [Probability Course](https://www.probabilitycourse.com/preface.php)
+- [University of Bonn - Probability Theory (Video)](https://www.youtube.com/watch?v=JS5ndD8ans4&t=1s)
+- [Khan Academy - Statistics & Probability](https://www.khanacademy.org/math/statistics-probability)
+
+##### **General Computer Vision**
+- [Szeliski - Computer Vision: Algorithms and Applications](https://szeliski.org/Book/)
+- [Prince - Computer Vision: A Modern Approach](https://udlbook.github.io/cvbook/)
+
+
 
 ## WSL installation (W10,11)
 
