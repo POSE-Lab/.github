@@ -30,33 +30,7 @@ Hardware Info
 
 
 
-## WSL installation (W10,11)
 
-1. Navigate to Control panel -> Programs -> Programs and Features -> Turn Windows features on or off
-2. Check "Virtual Machine Platform" and "Windows Subsystem for Linux"
-3. Open a terminal
-4. Run ```wsl.exe --install -d Ubuntu-22.04```
-5. Run ```wsl --set-default-version 2```
-6. Set up username and password
-7. When you want to enter wsl write ```wsl``` or ```bash```. If you want to exit write ```exit```.
-8. If you get an error like "wsl 2 requires an update to its kernel component" then run ```wsl.exe --update```
-9. If you want to open the file explorer a directory inside the wsl write ```explorer.exe "/path/to/folder"```
-
-## Conda installation
-### Windows
-1. Download conda installer from [here](https://www.anaconda.com/download/)
-2. Run the ```.exe``` file.
-3. Follow the prompts. IMPORTANT: When prompted to **add conda to PATH** make sure to enable it.
-
-### Linux
-1. Install conda installer for Linux from here [here](https://www.anaconda.com/download/)
-2. Open the terminal and run
-```
-bash <conda-installer-name>-latest-Linux-x86_64.sh
-```
-3. Follow the prompts and accept the defaults.
-
-### Mac
 
 
 <!--
