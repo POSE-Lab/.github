@@ -28,7 +28,7 @@ Hardware Info
 - [Szeliski - Computer Vision: Algorithms and Applications](https://szeliski.org/Book/)
 - [Prince - Computer Vision: A Modern Approach](https://udlbook.github.io/cvbook/)
 
-
+[WSL installation](https://github.com/POSE-Lab/WSL-installation)
 
 
 
